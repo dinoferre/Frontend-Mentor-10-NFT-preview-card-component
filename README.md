@@ -1,1 +1,0 @@
-# Frontend-Mentor-10-NFT-preview-card-component
